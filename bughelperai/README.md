@@ -59,13 +59,15 @@ Returns cause + fix suggestion
 This reflects modern RAG-style retrieval architectures used in real AI systems.
 
 
+
 🏗️ System Architecture
 <img width="305" height="263" alt="image" src="https://github.com/user-attachments/assets/6f500e2d-41fb-4220-8897-08397c6a974a" />
 
 
 
 
-he project demonstrates a vector retrieval workflow, and Endee is used as the base repository. The system is designed to integrate with vector databases like Endee for scalable retrieval.
+
+The project demonstrates a vector retrieval workflow, and Endee is used as the base repository. The system is designed to integrate with vector databases like Endee for scalable retrieval.
 
 ⚙️ Tech Stack
 Component	Technology
@@ -81,6 +83,9 @@ bughelperai/
  ├── bugs.py          # Dataset of known issues
  ├── requirements.txt # Dependencies
  └── README.md
+ 
+ <img width="883" height="327" alt="image" src="https://github.com/user-attachments/assets/1fc23270-8f30-424f-aa69-56b48ff5ab7c" />
+
 ▶️ Getting Started
 1️⃣ Clone Repository
 git clone https://github.com/rupasree28/endee.git
@@ -96,7 +101,9 @@ Open:
 http://127.0.0.1:8000/docs
 
 Get Example to see the status of application
+
 <img width="1868" height="910" alt="image" src="https://github.com/user-attachments/assets/34334e48-8518-4b21-afbe-9f3b91d0ae4e" />
+
 
 
 Try example:
@@ -111,17 +118,27 @@ Try example:
   "fix_suggestion": "Initialize object before use and add null checks",
   "confidence": 0.91
 }
+
+
 <img width="1906" height="880" alt="image" src="https://github.com/user-attachments/assets/781ee448-cd09-46fa-bf8e-3a506bfde562" />
 
+
+
 <img width="1915" height="932" alt="image" src="https://github.com/user-attachments/assets/bffeddd9-ad45-4fc6-836f-d40e7b0ccd34" />
+
+
 
 <img width="1916" height="828" alt="image" src="https://github.com/user-attachments/assets/103a600d-8c48-452c-b32a-c02610a898db" />
 
 
 Example execution to show SQL problem:
+
+
 <img width="1884" height="810" alt="image" src="https://github.com/user-attachments/assets/8fb3e08b-87a4-4ced-ac21-eacde6eb5c33" />
 
+
 Results as output:
+
 <img width="1834" height="707" alt="image" src="https://github.com/user-attachments/assets/83ac069a-b195-4529-9ed8-2e958321ebfb" />
 
 
