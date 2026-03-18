@@ -88,6 +88,10 @@ Open:
 
 http://127.0.0.1:8000/docs
 
+Get Example to see the status of application
+<img width="1868" height="910" alt="image" src="https://github.com/user-attachments/assets/34334e48-8518-4b21-afbe-9f3b91d0ae4e" />
+
+
 Try example:
 
 {
@@ -106,6 +110,12 @@ Try example:
 
 <img width="1916" height="828" alt="image" src="https://github.com/user-attachments/assets/103a600d-8c48-452c-b32a-c02610a898db" />
 
+
+Example execution to show SQL problem:
+<img width="1884" height="810" alt="image" src="https://github.com/user-attachments/assets/8fb3e08b-87a4-4ced-ac21-eacde6eb5c33" />
+
+Results as output:
+<img width="1834" height="707" alt="image" src="https://github.com/user-attachments/assets/83ac069a-b195-4529-9ed8-2e958321ebfb" />
 
 
 🌍 Real-World Use Cases
