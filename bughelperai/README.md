@@ -1,4 +1,5 @@
 🚀 BugHelperAI — Intelligent Bug Solution Finder using Semantic Search
+
 🔍 Overview
 
 BugHelperAI is an AI-powered debugging assistant designed to help developers quickly identify programming errors and retrieve relevant solutions using semantic search.
