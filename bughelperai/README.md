@@ -64,7 +64,9 @@ This reflects modern RAG-style retrieval architectures used in real AI systems.
 
 
 
-Cause + Fix Suggestion
+
+he project demonstrates a vector retrieval workflow, and Endee is used as the base repository. The system is designed to integrate with vector databases like Endee for scalable retrieval.
+
 ⚙️ Tech Stack
 Component	Technology
 Backend	FastAPI
