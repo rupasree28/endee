@@ -17,7 +17,8 @@ Returns irrelevant results
 
 Wastes developer time
 
-BugHelperAI solves this using semantic understanding.
+BugHelperAI addresses these challenges using semantic retrieval techniques.
+
 
 💡 Key Features
 
@@ -154,4 +155,4 @@ AI/Software Developer Candidate
 
 ⭐ Acknowledgment
 
-Built as part of the Endee AI Project Evaluation, showcasing semantic retrieval workflows aligned with modern AI architectures.
+Built as part of Endee assessment which demonstrates a practical AI workflow aligned with real-world engineering systems., showcasing semantic retrieval workflows aligned with modern AI architectures.
