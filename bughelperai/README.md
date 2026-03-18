@@ -20,6 +20,7 @@ Wastes developer time
 BugHelperAI solves this using semantic understanding.
 
 💡 Key Features
+
 ✅ Semantic Bug Matching
 
 Understands meaning instead of keywords
