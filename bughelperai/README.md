@@ -57,27 +57,8 @@ Returns cause + fix suggestion
 This reflects modern RAG-style retrieval architectures used in real AI systems.
 
 🏗️ System Architecture
-┌──────────────────────────┐
-│   User Input (Bug/Error) │
-└─────────────┬────────────┘
-              ↓
-┌──────────────────────────┐
-│   Text Vectorization     │
-│     (TF-IDF Model)       │
-└─────────────┬────────────┘
-              ↓
-┌──────────────────────────┐
-│   Similarity Matching    │
-│    (Cosine Similarity)   │
-└─────────────┬────────────┘
-              ↓
-┌──────────────────────────┐
-│   Best Match Retrieval   │
-└─────────────┬────────────┘
-              ↓
-┌──────────────────────────┐
-│ Cause + Fix Suggestion   │
-└──────────────────────────┘
+<img width="305" height="263" alt="image" src="https://github.com/user-attachments/assets/6f500e2d-41fb-4220-8897-08397c6a974a" />
+
 Cause + Fix Suggestion
 ⚙️ Tech Stack
 Component	Technology
